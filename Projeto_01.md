@@ -4,7 +4,6 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -20,8 +19,8 @@
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``Ladder``
-- ``InteliJ IDEA``
-- ``Paradigma de orientação a objetos``
+- ``Factory I/O``
+- ``Codesys``
   
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
