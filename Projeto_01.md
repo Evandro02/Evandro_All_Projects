@@ -6,7 +6,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Softwares e Linguagens](#Softwares-e-Linguagens)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
@@ -16,7 +16,7 @@
   Esse projeto foi deselvolvido com parceria da Universidade Federal do Amazonas e Projeto SUPER
   
   
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Softwares e Linguagens
 
 - ``Ladder``
 - ``Factory I/O``
