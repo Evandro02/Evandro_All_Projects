@@ -26,3 +26,7 @@
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
 
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/92562553?s=40&v=4" width=115><br><sub>Evandro Salvador Marinho da Silva</sub>](https://github.com/Evandro02) | [<img src="https://avatars.githubusercontent.com/u/92562553?s=40&v=4" width=115><br><sub>Wesley Borges Conde</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/92562553?s=40&v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
