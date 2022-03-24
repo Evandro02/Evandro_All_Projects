@@ -1,0 +1,15 @@
+banana
+melancia
+morango
+tomate
+abacaxi
+abacate
+manga
+kiwi
+laranja
+tangerina
+pera
+uva
+ameixa
+pitaia
+figo
