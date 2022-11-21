@@ -24,11 +24,11 @@ Acesso as documentações: [aqui](https://github.com/Evandro02/Evandro_All_Proje
 Acesso ao cenário criando no Factory I/O: [aqui](https://mega.nz/file/kMM2hJ4S#J8_4m5PRC5wzOtkgY86NKyPNSl_p4uHW70oi5mQcC94). </p>
 Acesso ao códico no Codesys: [aqui]()
 
-## 🛠️ Abrir e rodar o projeto
+## 🛠️ Instalação de Softwares necessários
 Instalações dos Softwares abaixo:
 - Codesys: https://www.codesys.com/download.html
 - Factory I/O: https://factoryio.com/
-- 
+
 ## Autores
 - EVANDRO SALVADOR MARINHO DA SILVA
 - LUAN CARVALHO LIMA DOS SANTOS  
