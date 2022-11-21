@@ -32,7 +32,7 @@ Instalações dos Softwares abaixo:
 - Factory I/O: https://factoryio.com/
 ## Autores
 
-| [<img src="https://user-images.githubusercontent.com/92562553/159829659-fd02993e-1496-40ac-ac9e-c6a0baa600db.jpeg" width=115><br><sub>Evandro Salvador Marinho da Silva</sub>](https://github.com/Evandro02) | [<img src="https://user-images.githubusercontent.com/92562553/159828412-fa4a444a-a154-4f8a-b623-41059d9a4beb.jpeg" width=115><br><sub>Wesley Borges Conde</sub>](https://github.com/guilhermeonrails) | :---: |
+| (https://github.com/Evandro02) | (https://github.com/guilhermeonrails) | :---: |
 | :---: | :---: | :---: |
 
 
