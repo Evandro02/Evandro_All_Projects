@@ -32,7 +32,7 @@ Instalações dos Softwares abaixo:
 - Factory I/O: https://factoryio.com/
 ## Autores
 
-| (https://github.com/Evandro02) | (https://github.com/guilhermeonrails) | :---: |
-| :---: | :---: | :---: |
+| EVANDRO SALVADOR MARINHO DA SILVA | LUAN CARVALHO LIMA DOS SANTOS | MATHEUS FIGUEIREDO DE CASTRO | ROBSON MACHERGIANI SEIXAS NOGUEIRA| WESLEY BORGES CONDE  | 
+| :---: | | :---: | :---: | :---: |
 
 
