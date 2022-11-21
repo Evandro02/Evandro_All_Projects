@@ -4,19 +4,17 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Softwares e Linguagens](#Softwares-e-Linguagens)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
 ## Descrição do Projeto
-  Esse projeto foi deselvolvido com parceria da Universidade Federal do Amazonas e Projeto SUPER
-  
-  
+  Esse projeto foi deselvolvido com parceria da Universidade Federal do Amazonas e Projeto SUPER.
+ 
 ## ✔️ Softwares e Linguagens
-
 - ``Ladder``
 - ``Factory I/O``
 - ``Codesys``
@@ -30,8 +28,8 @@ Acesso ao códico no Codesys: [aqui]()
 Instalações dos Softwares abaixo:
 - Codesys: https://www.codesys.com/download.html
 - Factory I/O: https://factoryio.com/
+- 
 ## Autores
-
 - EVANDRO SALVADOR MARINHO DA SILVA
 - LUAN CARVALHO LIMA DOS SANTOS  
 - MATHEUS FIGUEIREDO DE CASTRO 
