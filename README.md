@@ -1,6 +1,6 @@
 # Evandro_All_Projects
 
-Olá, meu nome é Evandro Salvador. Sou Acadêmico do curso de Engenharia da Computação na Universidade Federal do Amazonas e faço estágio no SIDIA Instituto de Ciência e Tecnologia no time de Protocolo TG.
+Olá, meu nome é Evandro Salvador. Sou Acadêmico do curso de Engenharia da Computação na Universidade Federal do Amazonas e no presente momento sou assistente de desenlvimento no SIDIA Instituto de Ciência e Tecnologia no time de CP TG.
 
   
 ## 📁 Acesso aos projetos
